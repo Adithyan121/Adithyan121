@@ -40,3 +40,4 @@ MERN Stack Developer specializing in MongoDB, Express, React, and Node.js. Focus
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mr._a.d.i__"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+<meta name="google-site-verification" content="NVMFKqCgJLOnJZGSu34204bxuQSlwWFl-bJyEExBduI" />
