@@ -1,5 +1,11 @@
-<meta name="google-site-verification" content="NVMFKqCgJLOnJZGSu34204bxuQSlwWFl-bJyEExBduI" />
-Hi 👋 My name is Adithyan G
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋,+I'm+Adithyan+G;A+Passionate+Developer+from+Kerala" alt="Typing SVG" />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Adithyan121&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyan121" />
+  </p>
+</div>
+
 ===================================================================================================================================
 
 MERN STACK DEVELOPER
