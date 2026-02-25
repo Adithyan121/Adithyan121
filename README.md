@@ -51,14 +51,13 @@ MERN Stack Developer specializing in MongoDB, Express, React, and Node.js. Focus
     alt="Dev.to"
     title="Dev.to"
   />
-</a>
-  <a href="https://coderlegion.com/user/Adithyan+G" target="_blank" rel="noreferrer">
+<a href="https://coderlegion.com/user/Adithyan+G" target="_blank" rel="noreferrer">
   <img
     src="https://coderlegion.com/cl_badge_logo1.png"
     width="90"
     height="25"
-    alt="Dev.to"
-    title="Dev.to"
+    alt="CoderLegion"
+    title="CoderLegion"
   />
 </a>
 </p>
